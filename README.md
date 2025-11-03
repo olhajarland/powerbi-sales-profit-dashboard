@@ -85,6 +85,13 @@ YoY Sales   = CALCULATE([Total Sales], SAMEPERIODLASTYEAR('Date'[Date]))
 
 ---
 
+## 📸 Dashboard Preview
+
+![Sales Dashboard](images/sales_dashboard.png)
+
+---
+
+
 > **Note:** This dashboard was built using Power BI’s sample dataset (“Financials”) available publicly within Power BI Desktop.  
 > The dataset was used for learning and demonstration purposes only — all data are simulated.
 
