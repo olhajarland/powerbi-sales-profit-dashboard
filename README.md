@@ -87,7 +87,7 @@ YoY Sales   = CALCULATE([Total Sales], SAMEPERIODLASTYEAR('Date'[Date]))
 
 ## 📸 Dashboard Preview
 
-![Sales Dashboard](images/sales_dashboard.png.png)
+![Sales Dashboard](sales_dashboard.png.png)
 
 ---
 
